@@ -1,0 +1,7 @@
+.calenderIcon{
+   background-image: url("../../Icon/calender_icon.png");
+   background-repeat: no-repeat;
+   background-origin: content-box;
+   background-size: 1.5rem 1.5rem;
+   background-position: right center;
+}

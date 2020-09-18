@@ -1,0 +1,23 @@
+.facebookIcon{
+    background-image: url("../../Icon/fb.png");
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size: 1.8rem 1.8rem;
+    background-position: left center;
+}
+.googleIcon{
+    background-image: url("../../Icon/google.png");
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size: 1.8rem 1.8rem;
+    background-position: left center;
+}
+.toggleButton{
+    color: black;
+    text-decoration:underline;
+    cursor:pointer;
+}
+.warningMsg{
+    color:red;
+    font-weight:bold;
+}
